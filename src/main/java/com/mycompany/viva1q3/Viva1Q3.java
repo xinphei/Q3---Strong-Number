@@ -3,7 +3,7 @@ package com.mycompany.viva1q3;
 /**
  * Author: Heng Xin Phei
  * Lab: Occ9
- * Date: 9/11/2023123
+ * Date: 9/11/2023
  * Objective: Viva 1-Q3: Write a program to determine if the number entered by the user is a Strong Number or not. A Strong Number is a number whose sum of the factorial of each digit is equal to the number itself. For example, 145 is a Strong Number because 1! + 4! + 5! = 1 + 24 + 120 = 145.
  */
 //import Scanner class from java.util package
